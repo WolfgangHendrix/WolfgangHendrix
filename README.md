@@ -2,22 +2,27 @@
   <img src="assets/spacechakra-banner.png" alt="SpaceChakra — indie games, source code, and creative work in a neon arcade world" width="100%">
 </div>
 
-# Hi, I'm Santiago Salvador 👋
+# Santiago Salvador / SpaceChakra
 
-I make browser games, creative tools, art, and music under **SpaceChakra**. I also restore and share retro game cartridge labels through my [art and labels archive](https://github.com/WolfgangHendrix/santiagosalvador.com). My projects move between arcade experiments, sound, and visual storytelling; the common thread is making something people can actually play or use.
+I build **browser games and creative tools**: arcade combat, space shooters, music instruments, and experiments with sound. SpaceChakra is where I bring game design, code, art, and music together. Everything below has a place you can play or try it.
 
-### Explore the work
+### Play the games
 
-| Project | What it is | Try it |
+| Game | What you'll find | Play |
 | --- | --- | --- |
-| [Nephilim Squadron 2026](https://github.com/WolfgangHendrix/ns2026) | A browser shoot-'em-up set in the *Operation Stemlock* universe. | [Play](https://ns2026-gamma.vercel.app) |
-| [Charango Tuner](https://github.com/WolfgangHendrix/Charango_Tuner_Ecuador_SpaceChakra) | An Andean charango tuner and metronome with folkloric rhythm presets. | [Use the tuner](https://spacechakra.itch.io/charango-tuner-pro-ecuador) |
-| [Cosmic Vibes](https://github.com/WolfgangHendrix/cosmic-vibes-chakra-alignment) | A browser sound tool with Solfeggio tones and binaural beats. | [Explore](https://spacechakra.itch.io/cosmic-vibes-chakra-alignment) |
-| [Art & labels archive](https://github.com/WolfgangHendrix/santiagosalvador.com) | My art portfolio and free archive of 1,350+ restored retro game labels. | [Browse the archive](https://github.com/WolfgangHendrix/santiagosalvador.com/tree/main/Labels) |
+| [Nephilim Squadron 2026](https://github.com/WolfgangHendrix/ns2026) | A browser shoot-'em-up set in the *Operation Stemlock* universe. **Public source.** | [Play](https://ns2026-gamma.vercel.app) |
+| Bone Cleaver | A weapon-based arena fighting game. | [Play the alpha](https://spacechakra.itch.io/bone-cleaver) |
+| Vector Interceptor 2600 | Manual missile defense meets tower defense on a neon CRT grid. | [Play](https://spacechakra.itch.io/vectorinterceptor2600) |
+| Road Trip Racer | A two-button hill racer made for kids. | [Play](https://road-trip-racer.vercel.app/hcrr.html) |
 
-### More to play
+### Use the tools
 
-Some of my current games are playable while their source repositories are private: [Bone Cleaver](https://spacechakra.itch.io/bone-cleaver), [Road Trip Racer](https://road-trip-racer.vercel.app/hcrr.html), and [Vector Interceptor 2600](https://spacechakra.itch.io/vectorinterceptor2600). The [SpaceChakra arcade](https://spacechakra.com) and [itch.io page](https://spacechakra.itch.io) have the wider collection.
+| Tool | What it does | Try it |
+| --- | --- | --- |
+| [Charango Tuner](https://github.com/WolfgangHendrix/Charango_Tuner_Ecuador_SpaceChakra) | Tunes an Andean charango and provides folkloric metronome rhythms. | [Open](https://spacechakra.itch.io/charango-tuner-pro-ecuador) |
+| [Cosmic Vibes](https://github.com/WolfgangHendrix/cosmic-vibes-chakra-alignment) | Generates Solfeggio tones and binaural beats in the browser. | [Open](https://spacechakra.itch.io/cosmic-vibes-chakra-alignment) |
+
+More experiments are in the [SpaceChakra arcade](https://spacechakra.com) and on [itch.io](https://spacechakra.itch.io). I also share [art and free retro game replacement labels](https://github.com/WolfgangHendrix/santiagosalvador.com).
 
 ### Around the web
 
