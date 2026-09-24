@@ -10,7 +10,7 @@ I build **browser games and creative tools**: arcade combat, space shooters, mus
 
 | Game | What you'll find | Play |
 | --- | --- | --- |
-| [Nephilim Squadron 2026](https://github.com/WolfgangHendrix/ns2026) | A browser shoot-'em-up set in the *Operation Stemlock* universe. **Public source.** | [Play](https://ns2026-gamma.vercel.app) |
+| [Zoe Force](https://github.com/WolfgangHendrix/zoeforce) | A six-stage browser shoot-'em-up with 2D and voxel views. **Public source.** | [Play](https://zoeforce.vercel.app) |
 | Bone Cleaver | A weapon-based arena fighting game. | [Play the alpha](https://spacechakra.itch.io/bone-cleaver) |
 | Vector Interceptor 2600 | Manual missile defense meets tower defense on a neon CRT grid. | [Play](https://spacechakra.itch.io/vectorinterceptor2600) |
 | Road Trip Racer | A two-button hill racer made for kids. | [Play](https://road-trip-racer.vercel.app/hcrr.html) |
