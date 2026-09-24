@@ -24,6 +24,16 @@ I build **browser games and creative tools**: arcade combat, space shooters, mus
 
 More experiments are in the [SpaceChakra arcade](https://spacechakra.com) and on [itch.io](https://spacechakra.itch.io). I also share [art and free retro game replacement labels](https://github.com/WolfgangHendrix/santiagosalvador.com).
 
+### Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,threejs,vercel&theme=dark" alt="HTML, CSS, JavaScript, Three.js, and Vercel" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Canvas_API-7C3AED?style=flat-square&logo=html5&logoColor=white" alt="Canvas API" />&nbsp;
+  <img src="https://img.shields.io/badge/Web_Audio_API-EC4899?style=flat-square&logo=html5&logoColor=white" alt="Web Audio API" />
+</p>
+
 ### Around the web
 
 [SpaceChakra](https://spacechakra.com) · [YouTube](https://www.youtube.com/@spacechakra) · [itch.io](https://spacechakra.itch.io) · [Patreon](https://patreon.com/spacechakra) · [Contact](mailto:salvsantiago@gmail.com)
