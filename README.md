@@ -1,8 +1,12 @@
 <div align="center">
-  <img src="assets/spacechakra-banner.png" alt="SpaceChakra — indie games, source code, and creative work in a neon arcade world" width="100%">
+  <img src="assets/spacechakra-banner.gif" alt="SpaceChakra — indie games, source code, and creative work in a neon arcade world" width="100%">
 </div>
 
 # Santiago Salvador / SpaceChakra
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=3CF0FF&center=true&vCenter=true&width=640&lines=Play+Zoe+Force;Tune+a+charango;Source+code+for+patrons" alt="Play Zoe Force. Tune a charango. Source code for patrons." />
+</p>
 
 I'm a **designer who builds browser games and creative tools**: arcade combat, space shooters, music instruments, and experiments with sound. SpaceChakra is where I bring game design, code, art, and music together. I also explore NES game development. Everything below has a place you can play or try it.
 
